@@ -9,7 +9,7 @@ conversation, and requests human clarification when queries are ambiguous.
 
 ## Architecture
 
-<img src="assets/final_graph.png" alt="Architecture diagram" width="80%">
+<img src="assets/final_graph.png" alt="Architecture diagram" width="70%">
 
 ```
 START
