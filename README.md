@@ -208,3 +208,10 @@ at a glance without needing an external UI.
 Runs the program in two modes based on user preference, interactive mode or demo mode.
 In demo mode: Three scripted turns run automatically, demonstrating every routing path
 including the HITL interrupt with auto-supplied clarification.
+
+### Assets
+
+A full demo recording and screenshots have been added to the [`assets/`](assets/) folder:
+
+- **[`assets/demo1.mp4`](assets/demo1.mp4)** — end-to-end screen recording of an interactive session
+- **[`assets/trace_and_cli_screenshots/`](assets/trace_and_cli_screenshots/)** — CLI output screenshots (`cli1`–`cli7`) and LangSmith trace screenshots (`s1`–`s5`)
